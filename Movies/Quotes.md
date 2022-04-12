@@ -1,4 +1,4 @@
-#### My favourite movie quotes
+#### My Favourite Movie Quotes
 
 ##### Spiderman
 > With great power comes great responsibility.
