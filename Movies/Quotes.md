@@ -1,10 +1,10 @@
 #### My favourite movie quotes
 
-### Spiderman
+##### Spiderman
 > With great power comes great responsibility.
 
-### Batman Begins
+##### Batman Begins
 > And why do we fall, Bruce? So we can learn to pick ourselves up.
 
-### Wonder
+##### Wonder
 > When given the choice between being right or being kind, choose kind.
