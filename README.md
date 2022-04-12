@@ -1,1 +1,1 @@
-# gitnoter-sample-notes
+# notes

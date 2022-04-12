@@ -1,0 +1,1 @@
+This summer, plan a trip to Goa and explore beautiful beaches.
