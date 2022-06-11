@@ -3,3 +3,4 @@
 * The Gateway of India, Mumbai
 * Amer Fort, Jaipur
 * The Ellora Caves, Aurangabad
+* The Beaches of Goa
