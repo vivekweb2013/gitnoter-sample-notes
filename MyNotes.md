@@ -12,3 +12,4 @@ It include
 | Head | Head |
 | --- | --- |
 | Data | Data `code` |
+| Data | Data ```code``` |
