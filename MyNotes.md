@@ -8,3 +8,7 @@ this is inline `code`
 
 It include
 - Travel `travel` notes
+
+| Head | Head |
+| --- | --- |
+| Data | Data `code` |
